@@ -1,0 +1,13 @@
+__pycache__/
+.venv/
+.vscode/
+.idea/
+
+data/
+models/
+results/
+
+*.pth
+*.pt
+
+.env

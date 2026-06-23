@@ -1,0 +1,11 @@
+DATA_DIR = "data/split"
+
+IMAGE_SIZE = 224
+BATCH_SIZE = 32
+
+EPOCHS = 5
+LEARNING_RATE = 0.001
+
+NUM_WORKERS = 4
+
+DEVICE = "cuda"
